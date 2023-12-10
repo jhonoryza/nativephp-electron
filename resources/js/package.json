@@ -30,7 +30,7 @@
     "@electron-toolkit/preload": "^1.0.3",
     "@electron-toolkit/utils": "^1.0.2",
     "@electron/remote": "^2.0.9",
-    "@nativephp/electron-plugin": "jhonoryza/nativephp-electron#livewire-3-compatibility"
+    "@nativephp/electron-plugin": "jhonoryza/electron-plugin#livewire-3-compatibility"
   },
   "devDependencies": {
     "@electron/notarize": "^1.2.3",
